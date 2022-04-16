@@ -1,2 +1,2 @@
 Hi this is my first github repo
-I'm editing it using git.
+I'm editing it using git.hi there
